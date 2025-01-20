@@ -1,6 +1,7 @@
 # KAP-of-PostPartum-Depression
  
 General Objective of the Study.
+
 To evaluate the level of mental health awareness and attitudes towards seeking help among pregnant and postpartum women in Jos Metropolis.
 
 Specific Objectives of the Study.
